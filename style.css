@@ -56,7 +56,7 @@ p {
     min-height: 85vh;
     display: flex;
     align-items: center;
-    background: url(img/restoran.jpg);
+    background: url(restoran.jpg);
     position: relative;
     background-position: center;
 }
